@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://typograssy.kawarimidoll.deno.net/api?text=Hello%20world!%20&scheme=green&frame=none&comment=" alt="Hello world!" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=110&section=header&text=Ai%20%2F%20ai-chaan&fontSize=44&fontColor=39D353&fontAlignY=55&stroke=39D353&strokeWidth=0" alt="header" width="100%" />
+
+<img src="https://typograssy.kawarimidoll.deno.net/api?text=Hello%20world!%20&bg=0d1117&frame=none&comment=&l0=161b22&l1=0e4429&l2=006d32&l3=26a641&l4=39d353" alt="Hello world!" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2DA44E&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ai+%F0%9F%91%8B;University+student+%C2%B7+Software+developer;Real-time+web+%C2%B7+Edge+AI+%C2%B7+P2P;Learning+in+the+open" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=39D353&background=0D1117&center=true&vCenter=true&width=860&height=60&lines=Hi%2C+I'm+Ai+%F0%9F%91%8B;University+student+%C2%B7+Software+developer;Real-time+web+%C2%B7+Edge+AI+%C2%B7+P2P;Learning+in+the+open" alt="Typing SVG" />
 </a>
 
 ## 👋 Hi There
@@ -43,7 +45,7 @@ public class Ai {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,tailwind,git,github,vscode&perline=9" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,tailwind,git,github,vscode&perline=9&theme=dark" alt="Tech stack" />
 
 </div>
 
@@ -51,7 +53,7 @@ public class Ai {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ai-chaan&theme=default&hide_border=true&background=FFFFFF&ring=2DA44E&fire=2DA44E&currStreakLabel=2DA44E" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=ai-chaan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub streak" />
 
 <br /><br />
 
@@ -59,6 +61,8 @@ public class Ai {
 
 **Thank you for visiting!** 🌱
 
-<img src="https://komarev.com/ghpvc/?username=ai-chaan&label=Profile%20views&color=2da44e&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ai-chaan&label=Profile%20views&color=238636&style=flat" alt="Profile views" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&section=footer" alt="footer" width="100%" />
