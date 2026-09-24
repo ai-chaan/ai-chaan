@@ -1,35 +1,64 @@
-## Hello, I'm Ai 👋
+<div align="center">
 
-I'm a software developer passionate about open-source projects and web development.
+<img src="https://typograssy.kawarimidoll.deno.net/api?text=Hello%20world!%20&scheme=green&frame=none&comment=" alt="Hello world!" width="100%" />
 
-## Skills
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2DA44E&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ai+%F0%9F%91%8B;University+student+%C2%B7+Software+developer;Real-time+web+%C2%B7+Edge+AI+%C2%B7+P2P;Learning+in+the+open" alt="Typing SVG" />
+</a>
 
-- **Languages**:  Java
-- **Tools**: Git, VS Code
+## 👋 Hi There
 
-## バッジ
+**Ai / ai-chaan**<br />
+津田塾大学（Tsuda University）の学生 · Passionate about Software Development
 
-![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
+## 👩‍💻 About
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=juicyfresh&no-bg=true" />
+```java
+public class Ai {
+    String role    = "Software Developer";
+    String school  = "津田塾大学 (Tsuda University)";
+    String focus[] = { "Web development", "Real-time / P2P", "Edge AI" };
+    String belief  = "Ship small, ship often, and learn in the open.";
+}
+```
 
+- 🎓 **津田塾大学**（Tsuda University）の学生です
+- 🔭 Working on **[AI Facilitator](https://github.com/ai-chaan/3-project)** — a browser-based tool that supports balanced group discussion
+- 🌱 Exploring MediaPipe, WebRTC and LLM-assisted facilitation
+- 🤝 Passionate about open-source projects and web development
 
-<!--
-**ai-chaan/ai-chaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Project
 
-Here are some ideas to get you started:
+| | |
+| :-- | :-- |
+| **[AI Facilitator](https://github.com/ai-chaan/3-project)** | Analyses speaking balance and gaze direction **on-device** (MediaPipe) and shares only lightweight status over P2P (PeerJS / WebRTC) to give each participant real-time advice. |
+| 🔗 Live demo | [ai-chaan.github.io/3-project](https://ai-chaan.github.io/3-project/) |
+| 📊 Dashboard | [Real-time conversation analytics](https://ai-chaan.github.io/3-project/dashboard_for_ai_facilitator.html) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,tailwind,git,github,vscode&perline=9" alt="Tech stack" />
+
+</div>
+
+## 📊 GitHub Activities
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ai-chaan&theme=default&hide_border=true&background=FFFFFF&ring=2DA44E&fire=2DA44E&currStreakLabel=2DA44E" alt="GitHub streak" />
+
+<br /><br />
+
+💚 Always learning & exploring new tech!
+
+**Thank you for visiting!** 🌱
+
+<img src="https://komarev.com/ghpvc/?username=ai-chaan&label=Profile%20views&color=2da44e&style=flat" alt="Profile views" />
+
+</div>
